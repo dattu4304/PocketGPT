@@ -92,8 +92,8 @@ Architecture:
 
 Validation Loss - `1.0491`
 
-![Loss Curve](assets/1.png)(assets/2.png)
-
+![Loss Curve](assets/2.png)
+![Loss Curve1](assets/1.png)
 ## Sample Outputs 📝
 
 ### Example 1
