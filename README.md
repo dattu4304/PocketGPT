@@ -62,10 +62,10 @@ python sample.py \
 1. **Download Assets**
 ```bash
 # Download tokenizer
-wget https://huggingface.co/OmAlve/TinyStories-SmolGPT/resolve/main/tok4096.model -P data/
+wget https://huggingface.co/dattu8055/PocketGPT/blob/main/tok4096.model -P data/
 
 # Download pre-trained checkpoint
-wget https://huggingface.co/OmAlve/TinyStories-SmolGPT/resolve/main/ckpt.pt -P out/
+wget https://huggingface.co/dattu8055/PocketGPT/blob/main/ckpt.pt -P out/
 ```
 
 2. **Run Inference**
@@ -92,7 +92,7 @@ Architecture:
 
 Validation Loss - `1.0491`
 
-![Loss Curve](assets/loss.png)
+![Loss Curve](assets/1.png)(assets/2.png)
 
 ## Sample Outputs 📝
 
