@@ -1,7 +1,4 @@
-# SMOL-GPT 🦾
-
-A minimal PyTorch implementation for training your own small LLM from scratch. Designed for educational purposes and simplicity, featuring efficient training, flash attention, and modern sampling techniques.
-
+# Pocket-GPT 🦾
 ## Features ✨
 
 - **Minimal Codebase**: Pure PyTorch implementation with no abstraction overhead
@@ -160,14 +157,7 @@ om-alve-smolgpt/
 └── train.py        - Main training loop
 ```
 
-## Contributing 🤝
 
-Contributions welcome! Please open an issue or PR for:
-- Bug fixes
-- Performance improvements
-- New features
-
----
 
 ### Training RIG SPECS (Rented via LightningAI)  
 - **GPU**: NVIDIA L4 Tensor Core (Optimized for AI workloads)  
@@ -176,4 +166,3 @@ Contributions welcome! Please open an issue or PR for:
 - **VRAM**: 24 GB  
 ---
 
-**Note**: This implementation is inspired by modern LLM training practices and adapted for educational purposes. For production use, consider scaling up model size and dataset.
